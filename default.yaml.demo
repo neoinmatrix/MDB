@@ -1,0 +1,6 @@
+db:
+  host: '127.0.0.1:3306'
+  password: 'admin123'
+  charset: 'utf8'
+  user: 'admin'
+  database: 'database_test'
